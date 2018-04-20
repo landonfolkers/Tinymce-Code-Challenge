@@ -1,0 +1,1 @@
+To get parts A and B working I relied primarily on the TinyMCE docs and my previous knowledge. I had included it in a project before and that previous knowledge came in handy and I put it to good use. I also used some stack overflow conversations and other github repos to look at examples of others code. 
